@@ -2,7 +2,7 @@
 
 Ici nous allons initier la connexion de la VM au World Wide Web. 
 
-[![FireWall Meme, yes indeed](assests\9akfhcao.bmp "This is the proper way to make a firewall")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fmemes%2Fcomments%2Fayn8uv%2Fthis_is_the_proper_way_to_make_a_firewall%2F&psig=AOvVaw1RnDTLpBTE1u8e8JNAcwyJ&ust=1683570797745000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPCYiZTu4_4CFQAAAAAdAAAAABAf)
+<img src="assests\9akfhcao.bmp"> - *The proper way to build a firewall*
 
 #  Sommaire
 
@@ -42,8 +42,7 @@ C'est sympa de savoir qu'on peut faire "toc-toc" chez Google mais ça va pas nou
 
  # III. On brave le videur.
 
- [![Hobbits](assests\7m4xxbbs.bmp "They're taking the Hobbits to Isengard !")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fprogrammerhumor.io%2Fprogramming-memes%2Ffirewall-be-like-what-has-it-got-in-its-nasty-little-packetses%2F&psig=AOvVaw3mdrs75EeYEwyof1g5EHXI&ust=1683571813823000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLi_6fXv4_4CFQAAAAAdAAAAABAD)
-
+ <img src="assests\7m4xxbbs.bmp">
  On va donc maintenant se lancer dans le paramètrage de la box. Pourquoi ?
 
  Afin de pouvoir communiquer avec le monde extérieur en toute sécurité pardi ! 
@@ -77,4 +76,6 @@ C'est simple à nouveau, suivez le [guide](https://www.it-connect.fr/configurer-
 A ce stade vous devriez pouvoir recevoir des requêtes d'adresses IP distantes à votre LAN. 
 Bravo et bon courage pour la suite ! 
 
-[![Port-Forwarding meme, yes](assests\51vda2jn.bmp "Oh the irony")](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Foverflow_meme%2Fstatus%2F1335458305280446466&psig=AOvVaw0K6I_jeYV6LemNSDbCOzEB&ust=1683571045554000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOC_8ZHt4_4CFQAAAAAdAAAAABAS)
+<img src="assests\51vda2jn.bmp">
+
+Vous pouvez maintenant passer à la [suite](3-Securite_du_serveur_ovh_partie_1.md).

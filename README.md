@@ -58,3 +58,15 @@ ____________________________________________________________________________
 
   1. ### [Installation de Mattermost.](1-Mattermost_Installation.md)
   2. ### [Paramétrage du réseau.](3-Mattermost_Connexion.md)
+
+  3. ### [Securité du serveur - Partie 1](3-Securite_du_serveur_ovh_partie_1.md)
+
+  4. ### [Securité du serveur - Partie 2](3-Securite_du_serveur_ovh_partie_2.md)
+  _________________________________________________________________________
+
+
+  Un petit mot de la fin qui nous tient à coeur. 
+
+  C'est le fruit d'un travail rigoureux et acharné, mais nous sommes fiers du résultat. N'hésitez pas à nous faire des retours sur ce guide. 
+
+  Merci Léo pour tes enseignements et tes critiques. Nous continuerons à pousser, puis fleurir un jour, grâce à ces bases. :blossom:
