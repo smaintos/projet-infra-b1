@@ -69,4 +69,4 @@ ____________________________________________________________________________
 
   C'est le fruit d'un travail rigoureux et acharné, mais nous sommes fiers du résultat. N'hésitez pas à nous faire des retours sur ce guide. 
 
-  Merci Léo pour tes enseignements et tes critiques. Nous continuerons à pousser, puis fleurir un jour, grâce à ces bases. :blossom:
+  Merci Léo pour tes enseignements et tes critiques. Nous continuerons à pousser, puis fleurir un jour. :blossom:
