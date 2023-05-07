@@ -136,3 +136,4 @@ sudo systemctl start mattermost
 
 Et voila ! Vous avez installé Mattermost sur vos VM's
 
+Vous pouvez maintenant passer à la [suite.](2-Mattermost_Connexion.md)

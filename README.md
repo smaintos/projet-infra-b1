@@ -57,4 +57,4 @@ ____________________________________________________________________________
 ## Sommaire : 
 
   1. ### [Installation de Mattermost.](1-Mattermost_Installation.md)
-  3. ### [Paramétrage du réseau.](3-Mattermost_Connexion.md)
+  2. ### [Paramétrage du réseau.](3-Mattermost_Connexion.md)
