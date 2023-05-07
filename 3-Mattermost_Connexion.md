@@ -2,7 +2,7 @@
 
 Ici nous allons initier la connexion de la VM au World Wide Web. 
 
-![FireWall Meme, yes indeed](assests\9akfhcao.bmp "This is the proper way to make a firewall")
+[![FireWall Meme, yes indeed](assests\9akfhcao.bmp "This is the proper way to make a firewall")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fmemes%2Fcomments%2Fayn8uv%2Fthis_is_the_proper_way_to_make_a_firewall%2F&psig=AOvVaw1RnDTLpBTE1u8e8JNAcwyJ&ust=1683570797745000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPCYiZTu4_4CFQAAAAAdAAAAABAf)
 
 #  Sommaire
 
@@ -75,7 +75,6 @@ C'est simple à nouveau, suivez le [guide](https://www.it-connect.fr/configurer-
 :warning: N'oubliez pas d'ouvrir les ports choisis, sur votre OS, dans votre VM ! :warning:
 
 A ce stade vous devriez pouvoir recevoir des requêtes d'adresses IP distantes à votre LAN. 
-
 Bravo et bon courage pour la suite ! 
 
 [![Port-Forwarding meme, yes](assests\51vda2jn.bmp "Oh the irony")](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Foverflow_meme%2Fstatus%2F1335458305280446466&psig=AOvVaw0K6I_jeYV6LemNSDbCOzEB&ust=1683571045554000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOC_8ZHt4_4CFQAAAAAdAAAAABAS)
