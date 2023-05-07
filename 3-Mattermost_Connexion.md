@@ -2,7 +2,7 @@
 
 Ici nous allons initier la connexion de la VM au World Wide Web. 
 
-[![FireWall Meme, yes indeed](assests\9akfhcao.bmp "This is the proper way to make a firewall")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fmemes%2Fcomments%2Fayn8uv%2Fthis_is_the_proper_way_to_make_a_firewall%2F&psig=AOvVaw1RnDTLpBTE1u8e8JNAcwyJ&ust=1683570797745000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPCYiZTu4_4CFQAAAAAdAAAAABAf)
+![FireWall Meme, yes indeed](assests\9akfhcao.bmp "This is the proper way to make a firewall")
 
 #  Sommaire
 
