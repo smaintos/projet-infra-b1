@@ -129,4 +129,4 @@ server {
 }
 ```
 
-Merci d'avoir suivis ce guide jusqu'ici ! Retour au [Sommaire](README.md).
+Merci d'avoir suivis ce guide jusqu'ici ! Retour au [Sommaire](https://github.com/smaintos/projet-infra-b1).

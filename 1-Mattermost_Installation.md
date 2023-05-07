@@ -134,6 +134,8 @@ sudo systemctl enable mattermost
 sudo systemctl start mattermost
 ```
 
+Pour accéder à votre Mattermost en local : `http://ip-de-Mattermost:8065`
+
 Et voila ! Vous avez installé Mattermost sur vos VM's
 
 Vous pouvez maintenant passer à la [suite.](2-Mattermost_Connexion.md)
